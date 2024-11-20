@@ -25,6 +25,6 @@ directly in the weekly files
 
 ### Final Leaderboard Positions
 
-LeaderBoard.png
+![Student Ranking]( LeaderBoard.png?raw=true "Student Ranking")
 
 
